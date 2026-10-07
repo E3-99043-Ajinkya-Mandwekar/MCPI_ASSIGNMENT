@@ -1,0 +1,8 @@
+../Core/Src/lcd.c:11:6:PCF8574_Write	1
+../Core/Src/lcd.c:26:6:lcd_write_nibble	2
+../Core/Src/lcd.c:75:6:lcd_send_cmd	1
+../Core/Src/lcd.c:94:6:lcd_send_data	1
+../Core/Src/lcd.c:111:6:lcd_init	1
+../Core/Src/lcd.c:184:6:lcd_clear	1
+../Core/Src/lcd.c:200:6:lcd_set_cursor	2
+../Core/Src/lcd.c:220:6:lcd_print	2
