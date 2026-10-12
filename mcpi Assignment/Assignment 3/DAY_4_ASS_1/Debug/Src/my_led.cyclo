@@ -1,0 +1,3 @@
+../Src/my_led.c:11:6:led_init	1
+../Src/my_led.c:27:6:led_on_pin	1
+../Src/my_led.c:32:6:led_off_pin	1

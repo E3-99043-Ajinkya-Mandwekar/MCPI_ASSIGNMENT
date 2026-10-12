@@ -1,0 +1,5 @@
+../Core/Src/accel_init.c:12:6:Accel_Write	1
+../Core/Src/accel_init.c:25:6:Accel_Read	1
+../Core/Src/accel_init.c:38:6:Accel_Init	1
+../Core/Src/accel_init.c:44:6:Accel_WaitForReading	2
+../Core/Src/accel_init.c:52:16:Accel_GetReading	1
